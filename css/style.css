@@ -1,0 +1,20 @@
+table , td{
+    border: 1px solid black;
+background-color: red;
+color: white;
+}
+body{
+    background-color: blanchedalmond;
+}
+input{
+    height: 20px;
+}
+button{
+    background-color: dodgerblue;
+    border: none;
+    height: 30px;
+    color: white;
+    text-transform: capitalize;
+    border-radius: 2px;
+    cursor: pointer;
+}
